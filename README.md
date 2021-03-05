@@ -2,11 +2,17 @@
 Game based on Numberphile's Dollar Game
 
 Title: Dollar Game
+
 Program File: Main.java
+
 External Files Required: Game.java, ListOfVertices.java, Vertices.java, ValidateVerticesEdges.java
+
 External Files Created: None
+
 Contributing Programmers: Nick House & Donovan McDonough
+
 Course: FS20-CMPSCI4500-001 :: Intro to the Software Profession
+
 Date Written: 10 Sep 2020
 
 Explanation:
