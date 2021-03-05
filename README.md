@@ -6,7 +6,6 @@ Program File: Main.java
 External Files Required: Game.java, ListOfVertices.java, Vertices.java, ValidateVerticesEdges.java
 External Files Created: None
 Contributing Programmers: Nick House & Donovan McDonough
-Email: Nick House: nh6gy@umsystem.edu        Donovan McDonough: dmmv2r@mail.umsl.edu
 Course: FS20-CMPSCI4500-001 :: Intro to the Software Profession
 Date Written: 10 Sep 2020
 
